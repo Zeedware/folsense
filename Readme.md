@@ -32,11 +32,11 @@ Unlike Povles, Dhaoine doesn't believe in singular god. Instead, they believe th
 
 Warforged generally doesn't like to band together and more individualistic than other races. But since Folsense is free individual city, Warforged liked being here thus makes Folsense a city with the largest Warforged population.
 
-They have central hub for business and technology in the middle of the city called `root`. They are represented by 3 councilperson in the council, `Spring`, `Node`, and `Phoenix`
+They have central hub for business and technology in the middle of the city called `git`. Git is controlled by 3 major investors, `Spring`, `Node`, and `Phoenix`
 
 ### Belief
 
 Unlike other major races in Folsense, Warforged are not religious. They are generally neutral. They were only built to fight and not to wonder whether fight is right or wrong. They are perfectly capable of independent thoughts but they do not show much interest in religion. Most of the warforged do not wrestle with ethical ideas. They're more interested in logical goals like science and money.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTEyMDU5NV19
+eyJoaXN0b3J5IjpbLTc0MzA1Njc4MV19
 -->
