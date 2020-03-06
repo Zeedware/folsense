@@ -37,6 +37,11 @@ They have central hub for business and technology in the middle of the city call
 ### Belief
 
 Unlike other major races in Folsense, Warforged are not religious. They are generally neutral. They were only built to fight and not to wonder whether fight is right or wrong. They are perfectly capable of independent thoughts but they do not show much interest in religion. Most of the warforged do not wrestle with ethical ideas. They're more interested in logical goals like science and money.
+
+## Ars Goetia
+
+Regardless of their opposing belief, both the Povles and the Dhaoine believes 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTg1NjUxNiwtNzQzMDU2NzgxXX0=
+eyJoaXN0b3J5IjpbMTEzNTg3NzI0MiwxOTE5ODU2NTE2LC03ND
+MwNTY3ODFdfQ==
 -->
