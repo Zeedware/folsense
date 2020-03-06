@@ -40,8 +40,8 @@ Unlike other major races in Folsense, Warforged are not religious. They are gene
 
 ## Ars Goetia
 
-Regardless of their opposing belief, both the Povles and the Dhaoine believes 
+Regardless of their opposing belief, both the Povles and the Dhaoine believes in the existence of Ars Goetia, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTg3NzI0MiwxOTE5ODU2NTE2LC03ND
-MwNTY3ODFdfQ==
+eyJoaXN0b3J5IjpbLTIwMDIzNjg1ODQsMTkxOTg1NjUxNiwtNz
+QzMDU2NzgxXX0=
 -->
