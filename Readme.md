@@ -13,7 +13,7 @@ Your mission is to escort an archeologist to investigate a ruins outside the cit
 As one of the majority in Folsense, Aasimar in Folsense calls themself `the Povles`. They're proud and religious. Enjoys the satisfaction of helping others. Both Forc organisation and religion centered on their castle, the Castle `Delasant`
 
 ### Povles's religion
-Povles belief in `Forc`, the god of darkness. Their religion said that long time ago, Forc fight with the goddess of light, `Ilum` to save the world from her tyranny. Forc eventually wins with the help of mankind and `Caigudes`, people who ascends to holiness to help Forc saves mankind. There are many Caigudes, but some of them are well known and treated like a prophet. One of the most well known Caigudes is  `Besca Viador`, who once said the ancestors of the one that created this city.
+Povles belief in `Forc`, the god of darkness. Their religion said that long time ago, Forc fight with the goddess of light, `Ilum` to save the world from her tyranny. Forc eventually wins with the help of mankind and `the Caigudes`, people who ascends to help Forc saves mankind. There are many Caigudes, but some of them are well known and treated like a prophet. One of the most well known Caigudes is  `Besca Viador`, who once said the ancestors of the one that created this city.
 
 ## Dhaoine
 Dhaoine is the Genasi of Folsense. Unlike Povles, they're not really structured. They're more down to earth and doesn't feel any obligation to save people.
@@ -21,7 +21,7 @@ Dhaoine is the Genasi of Folsense. Unlike Povles, they're not really structured.
 ### Religion
 Unlike Povles, Dhaoine doesn't believe in singular god. Instead, they believe that this world has many `taobhan` (aspects) that watch over them. Dhaoine believe that each aspects neither good or bad, they were the necessary parts of this world. Each aspects have small temple dedicated to them in different parts of the city.
 
-* `Beatha - Aspect of Life
+* Beatha - Aspect of Life
 * Thanatos - Aspect of Death
 * Grian - Aspect of the Sun
 * Edafos - Aspect of the Earth
@@ -38,5 +38,5 @@ They have central hub for business and technology in the middle of the city call
 
 Unlike other major races in Folsense, Warforged are not religious. They are generally neutral. They were only built to fight and not to wonder whether fight is right or wrong. They are perfectly capable of independent thoughts but they do not show much interest in religion. Most of the warforged do not wrestle with ethical ideas. They're more interested in logical goals like science and money.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2NTEwNTkzLC03NDMwNTY3ODFdfQ==
+eyJoaXN0b3J5IjpbMTkxOTg1NjUxNiwtNzQzMDU2NzgxXX0=
 -->
