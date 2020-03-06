@@ -21,7 +21,7 @@ Dhaoine is the Genasi of Folsense. Unlike Povles, they're not really structured.
 ### Religion
 Unlike Povles, Dhaoine doesn't believe in singular god. Instead, they believe that this world has many `taobhan` (aspects) that watch over them. Dhaoine believe that each aspects neither good or bad, they were the necessary parts of this world. Each aspects have small temple dedicated to them in different parts of the city.
 
-* Beatha - Aspect of Life
+* `Beatha - Aspect of Life
 * Thanatos - Aspect of Death
 * Grian - Aspect of the Sun
 * Edafos - Aspect of the Earth
@@ -38,5 +38,5 @@ They have central hub for business and technology in the middle of the city call
 
 Unlike other major races in Folsense, Warforged are not religious. They are generally neutral. They were only built to fight and not to wonder whether fight is right or wrong. They are perfectly capable of independent thoughts but they do not show much interest in religion. Most of the warforged do not wrestle with ethical ideas. They're more interested in logical goals like science and money.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzA1Njc4MV19
+eyJoaXN0b3J5IjpbMzI2NTEwNTkzLC03NDMwNTY3ODFdfQ==
 -->
