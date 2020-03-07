@@ -4,6 +4,9 @@ You're in Folsense, city of freedom. The city acts like an independent country a
 
 Folsense have 3 major races in it's population. The first is Aasimar that calls themself the `Povles`, second is Dhaoine, Genasi who have unique religion, and the third is the Warforged. The ratio is 35% Povles, 35% Dhaoine, 20% Warforged, and 10% others.
 
+### History
+
+
 ### Mission
 
 Your mission is to escort an archeologist to investigate a ruins outside the city.
@@ -42,6 +45,6 @@ Unlike other major races in Folsense, Warforged are not religious. They are gene
 
 Regardless of their opposing belief, both the Povles and the Dhaoine believes in the existence of Ars Goetia, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIzNjg1ODQsMTkxOTg1NjUxNiwtNz
-QzMDU2NzgxXX0=
+eyJoaXN0b3J5IjpbMjA1NTgyMDQ4MywtMjAwMjM2ODU4NCwxOT
+E5ODU2NTE2LC03NDMwNTY3ODFdfQ==
 -->
