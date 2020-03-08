@@ -2,10 +2,16 @@
 
 You're in Folsense, city of freedom. The city acts like an independent country and led by the council, chosen from their merit and influence.
 
-Folsense have 3 major races in it's population. The first is Aasimar that calls themself the `Povles`, second is Dhaoine, Genasi who have unique religion, and the third is the Warforged. The ratio is 35% Povles, 35% Dhaoine, 20% Warforged, and 10% others.
+Folsense have 3 major races in it's population. The first is Aasimar that calls themself the `Povles`, second is Dhaoine, Genasi who have unique religion, and the third is the Warforged. The ratio is 30% Povles, 30% Dhaoine, 20% Warforged, and 20% others.
 
 ### History
+Folsense is just used to be a land in the middle of `Kingdom of Inici` (Povles origin country) and `Dachaigh` (Dhaoine origin country). Neither country want to take ownership to that land because of the problem it posses. Eventually, since neither country want's to take it, it becomes a famous place for travellers, especially for Warforged. And more travellers means more money, and eventually the small land that nobody wants, become a huge, prosperous independent city.
 
+### Politics
+Despite opposing belief, Povles and Dhaoine in this city are not showing blatant animosity towards each other. This is due the city dependence on Warforged. Warforged is the biggest contributor of Folsense's economic power due toe their excellence in forging, mining, and business.
+
+### Culture
+Folsense is a city that very active at night. This is due to the Povles and Warforged's influence. As the Povles pray in `Delasant` at night and Warforged selling what they make at night.
 
 ### Mission
 
@@ -41,10 +47,6 @@ They have central hub for business and technology in the middle of the city call
 
 Unlike other major races in Folsense, Warforged are not religious. They are generally neutral. They were only built to fight and not to wonder whether fight is right or wrong. They are perfectly capable of independent thoughts but they do not show much interest in religion. Most of the warforged do not wrestle with ethical ideas. They're more interested in logical goals like science and money.
 
-## Ars Goetia
-
-Regardless of their opposing belief, both the Povles and the Dhaoine believes in the existence of Ars Goetia, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTgyMDQ4MywtMjAwMjM2ODU4NCwxOT
-E5ODU2NTE2LC03NDMwNTY3ODFdfQ==
+eyJoaXN0b3J5IjpbNzY2NjU0MTAzXX0=
 -->
